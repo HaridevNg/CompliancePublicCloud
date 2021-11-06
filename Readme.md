@@ -13,7 +13,7 @@ To achieve the above factors, it is important to understand the **Public Cloud R
 As we can see in the above diagram, as we from left (IaaS) to right (SaaS) responsibilities shift from Customer to Provider.
 
 # Basics of Security Compliance and AWS Services
-![Screenshot](./Diagrams/BasicsOfCompliance.png)
+![Screenshot](./Diagrams/Compliance.png)
 
 ## Prerequisites:-
 Organization has AWS [**Landing Zone**](https://aws.amazon.com/solutions/implementations/aws-landing-zone/) with Accounts isolated based on "separation of concern" or "other preferences"
